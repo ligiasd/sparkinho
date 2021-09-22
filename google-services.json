@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220622056356",
+    "project_id": "my-sparkinho-c4m1l4d3v",
+    "storage_bucket": "my-sparkinho-c4m1l4d3v.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220622056356:android:4e5e2ddc5c0d4ac579af31",
+        "android_client_info": {
+          "package_name": "com.edu.sparkinhoApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220622056356-qpvkjdnmljp6ajenb7q185udg6k2bt91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbDjJNrw7YjMVS4kFll_9NI0KRhZ7pO48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220622056356-qpvkjdnmljp6ajenb7q185udg6k2bt91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

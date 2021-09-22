@@ -1,0 +1,25 @@
+databaseChangeLog:
+  - changeSet:
+      id: V1_001
+      author: Ligiane Domingos
+      changes:
+        - createTable:
+            tableName: proj_user
+            columns:
+              - column:
+                  name: user_id
+                  type: uuid
+                  constraints:
+                    unique: true
+                    primaryKey: true
+                    nullable: false
+              - column:
+                  name: name
+                  type: VARCHAR(50)
+                  constraints:
+                    nullable: false
+              - column:
+                  name: birthday
+                  type: DATE
+                  constraints:
+                    nullable: false
